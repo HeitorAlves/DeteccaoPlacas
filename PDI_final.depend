@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1468729437 source:c:\dev\pdi_final\main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/ml/ml.hpp>
+	<opencv2/opencv.hpp>
+	<iostream>
+	<sstream>
+	<String.h>
+
+1468792745 source:c:\users\joão vitor\desktop\parte_final_pdi\pdi_final\main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/ml/ml.hpp>
+	<opencv2/opencv.hpp>
+	<iostream>
+	<sstream>
+	<String.h>
+
+1468894066 source:c:\users\joão vitor\desktop\trabalho_final_pdi\pdi_final\main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/ml/ml.hpp>
+	<opencv2/opencv.hpp>
+	<iostream>
+	<sstream>
+	<String.h>
+
+1468973259 source:c:\users\joão vitor\documents\faculdade\5 semestre\parte_final_pdi\trabalho_final_pdi\pdi_final\main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/ml/ml.hpp>
+	<opencv2/opencv.hpp>
+	<iostream>
+	<sstream>
+	<String.h>
+
+1513291261 source:c:\users\heitor\documents\trabalho de pdi\pdi_final\main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/ml/ml.hpp>
+	<opencv2/opencv.hpp>
+	<iostream>
+	<sstream>
+	<String.h>
+
